@@ -1,5 +1,5 @@
 <?php
-    //Declaração de variável
+    //Declaração da array
     $numeros = array();
 
     //Adição de valores a array

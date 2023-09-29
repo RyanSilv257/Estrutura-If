@@ -7,8 +7,6 @@
         }
         echo $value + 1;
         echo "<br>";
-        
     }
-
-
+    
 ?>
